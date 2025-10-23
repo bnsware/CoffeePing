@@ -1,5 +1,7 @@
 [🇹🇷 Türkçe dökümantasyon için tıklayın](README.tr.md)
 
+[![badge](https://rozet.vixware.net/icon/coffee/badge/Buy%20Me%20a%20Coffee/yellow?style=single)](https://www.buymeacoffee.com/bnsware)
+
 # ☕ Buy Me a Coffee - Webhook Management System
 
 A modern, secure, and mobile-responsive webhook management system for Buy Me a Coffee, built with pure PHP and JSON database. Monitor all your donations, memberships, and sales in real-time without touching Buy Me a Coffee dashboard.
@@ -51,8 +53,8 @@ Supports all Buy Me a Coffee webhook events:
 ### 1. Download
 
 ```bash
-git clone https://github.com/yourusername/bmc-webhook-system.git
-cd bmc-webhook-system
+git clone https://github.com/bnsware/coffeeping.git
+cd coffeeping
 ```
 
 ### 2. Upload to Server
@@ -252,8 +254,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💬 Support
 
-- 🐛 Report bugs via [GitHub Issues](https://github.com/yourusername/bmc-webhook-system/issues)
-- 💡 Request features via [GitHub Discussions](https://github.com/yourusername/bmc-webhook-system/discussions)
+- 🐛 Report bugs via [GitHub Issues](https://github.com/bnsware/coffeeping/issues)
+- 💡 Request features via [GitHub Discussions](https://github.com/bnsware/coffeeping/discussions)
 - ⭐ Star this repo if you find it helpful!
 
 ## 🙏 Acknowledgments
